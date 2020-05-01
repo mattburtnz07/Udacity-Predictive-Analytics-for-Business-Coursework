@@ -1,0 +1,86 @@
+City,State,Zip,Cluster,Address,Zip2,Store
+Barstow,CA,92311,1,1270 E Main St,92311,S0071
+Big Bear Lake,CA,92315,3,42170 Big Bear Blvd,92315,S0082
+Burbank,CA,91504,2,1011 N San Fernando Blvd,91504,S0068
+Camarillo,CA,93010,3,820 Arneill Rd,93010,S0007
+Carpinteria,CA,93013,3,850 Linden Ave,93013,S0020
+Chino Hills,CA,91709,1,4200 Chino Hills Pkwy Ste 400,91709,S0047
+Chula Vista,CA,91911,3,870 3rd Ave,91911,S0075
+Corona,CA,92883,1,11800 De Palma Rd,92883,S0062
+Downey,CA,90240,3,10001 Paramount Blvd,90240,S0018
+El Cajon,CA,92020,3,1201 Avocado Ave,92020,S0016
+El Cajon,CA,92021,1,950 N 2nd St,92021,S0059
+El Cajon,CA,92021,3,13439 Camino Canada,92021,S0042
+El Centro,CA,92243,3,750 N Imperial Ave,92243,S0053
+Escondido,CA,92025,3,351 W Felicita Ave,92025,S0060
+Escondido,CA,92026,1,330 W El Norte Pkwy,92026,S0055
+Escondido,CA,92027,3,1000 W El Norte Pkwy,92027,S0001
+Glendale,CA,91206,2,561 N Glendale Ave,91206,S0085
+Goleta,CA,93111,2,163 S Turnpike Rd,93111,S0077
+Goleta,CA,93117,2,175 N Fairview Ave,93117,S0073
+Hemet,CA,92545,3,3125 W Florida Ave,92545,S0030
+Hesperia,CA,92345,1,17390 Main St,92345,S0019
+Huntington Beach,CA,92649,2,5922 Edinger Ave,92649,S0023
+Inglewood,CA,90301,3,500 E Manchester Blvd,90301,S0057
+Irvine,CA,92620,1,3901 Portola Pkwy,92620,S0014
+La Canada,CA,91011,2,635 Foothill Blvd,91011,S0052
+La Verne,CA,91750,2,2340 Foothill Blvd,91750,S0065
+Laguna Niguel,CA,92677,2,30252 Crown Valley Pkwy,92677,S0017
+Lake Elsinore,CA,92532,1,31564 Grape St,92532,S0031
+Lakeside,CA,92040,3,12419 Woodside Ave,92040,S0002
+Lakewood,CA,90713,3,5500 Woodruff Ave,90713,S0084
+Lancaster,CA,93534,1,2058 W Avenue J,93534,S0029
+Lancaster,CA,93536,3,4033 W Avenue L,93536,S0009
+Lompoc,CA,93436,1,1124 W Ocean Ave,93436,S0012
+Lompoc,CA,93436,1,729 N H St,93436,S0072
+Long Beach,CA,90807,1,4550 Atlantic Ave,90807,S0040
+Long Beach,CA,90807,1,4550 Atlantic Ave,90807,S0070
+Long Beach,CA,90815,2,1820 Ximeno Ave,90815,S0046
+Los Alamitos,CA,90720,3,11322 Los Alamitos Blvd,90720,S0033
+Los Angeles,CA,90019,2,1430 S Fairfax Ave,90019,S0005
+Los Angeles,CA,90020,2,3461 W 3rd St,90020,S0008
+Los Angeles,CA,90026,2,1342 N Alvarado St,90026,S0003
+Los Angeles,CA,90028,2,4520 W Sunset Blvd,90028,S0063
+Los Angeles,CA,90041,2,7311 N Figueroa St,90041,S0076
+Malibu,CA,90265,2,29211 Heathercliff Rd,90265,S0027
+Mira Loma,CA,91752,3,3251 De Forest Cir Ste A,91752,S0011
+Mission Viejo,CA,92692,2,26022 Marguerite Pkwy,92692,S0051
+Monrovia,CA,91016,2,130 W Foothill Blvd,91016,S0083
+Montecito,CA,93108,2,1040 Coast Village Rd,93108,S0010
+Montrose,CA,91020,2,2039 Verdugo Blvd,91020,S0026
+Newhall,CA,91321,3,24160 Lyons Ave,91321,S0028
+Northridge,CA,91324,2,9119 Reseda Blvd,91324,S0064
+Oceanside,CA,92057,1,845 College Blvd,92057,S0048
+Ojai,CA,93023,2,1125 Maricopa Hwy,93023,S0034
+Orange,CA,92865,3,2684 N Tustin St,92865,S0025
+Palmdale,CA,93551,1,3027 Rancho Vista Blvd,93551,S0079
+Poway,CA,92064,3,13438 Poway Rd,92064,S0022
+Rancho Cucamonga,CA,91737,1,6351 Haven Ave,91737,S0045
+Redlands,CA,92374,1,522 Orange St,92374,S0066
+Riverside,CA,92506,1,3520 Riverside Plaza Dr,92506,S0013
+Rolling Hills Estates,CA,90274,2,7 Peninsula Ctr,90274,S0050
+San Diego,CA,92130,1,4627 Carmel Mountain Rd,92130,S0037
+San Diego,CA,92131,1,10675 Scripps Poway Pkwy,92131,S0015
+San Juan Capistrano,CA,92675,2,32401 Camino Capistrano,92675,S0056
+San Marcos,CA,92078,3,671 S Rancho Santa Fe Rd,92078,S0004
+San Pedro,CA,90731,3,1221 S Gaffey St,90731,S0039
+San Pedro,CA,90732,2,1440 W 25th St,90732,S0069
+Santa Barabra,CA,93105,2,3855 State St,93105,S0078
+Santa Clarita,CA,91351,1,16550 Soledad Canyon Rd,91351,S0032
+Santa Fe Springs,CA,90670,3,12801 Excelsior Dr,90670,S0041
+Santa Monica,CA,90403,2,1311 Wilshire Blvd,90403,S0021
+Santee,CA,92071,3,9643 Mission Gorge Rd,92071,S0006
+Simi Valley,CA,93063,3,2938 Tapo Canyon Rd,93063,S0054
+Simi Valley,CA,93063,3,5805 E Los Angeles Ave,93063,S0038
+Simi Valley,CA,93065,3,1855 Cochran St,93065,S0058
+Simi Valley,CA,93065,3,660 E Los Angeles Ave,93065,S0067
+Temecula,CA,92591,1,29530 Rancho California Rd,92591,S0080
+Thousand Oaks,CA,91360,2,2048 E Avenida De Los Arboles,91360,S0043
+Torrance,CA,90503,2,24325 Crenshaw Blvd,90503,S0081
+Tujunga,CA,91042,3,7789 Foothill Blvd,91042,S0044
+Tustin,CA,92780,2,550 E 1st St,92780,S0049
+Upland,CA,91786,3,81 W Foothill Blvd,91786,S0035
+West Covina,CA,91790,3,777 S Glendora Ave,91790,S0074
+Whittier,CA,90603,3,15740 La Forge St,90603,S0024
+Yucaipa,CA,92399,1,33644 Yucaipa Blvd,92399,S0036
+Yucca Valley,CA,92284,3,57590 29 Palms Hys,92284,S0061
