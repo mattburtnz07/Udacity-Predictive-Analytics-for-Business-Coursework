@@ -8,9 +8,9 @@ It was a great course and I really enjoyed using Tableau and Alteryx for data an
 # Contents
 
 
-1: Project 1 - Predicting Catalogue Demand  - Project to predict expected return from a marketting campaign
-    1a - Project_Data	- Data used in the project
-    1b - Complete Submission	- Files submitted for the project
+1: Project 1 - Predicting Catalogue Demand  - Project to predict expected return from a marketting campaign  
+    1a - Project_Data	- Data used in the project  
+    1b - Complete Submission	- Files submitted for the project  
     1c - Submission MGB.pdf - Final project submission  
     
 2: Project 2 - Create an Analytical Dataset	 
