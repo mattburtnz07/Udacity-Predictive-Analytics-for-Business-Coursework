@@ -21,10 +21,10 @@ This project involves formatting data and training a classification model to pre
 This project involves conducting an A/B Test on the introduction of an updated menu and television advertising campaign for a coffee chain using Alteryx. The results of this analysis are used to determine whether the updated menu would be implemnented in all stores across the chain. Another key part of the project was creating trend and seasonality variables for the analysis.
 
 5: Project 5 - Forecasting Sales  
-  
+This project involves conducting time-series analysis using monthly sales data to help with business planning. This was done using ETS and ARIMA models in Alteryx.  
 
 6: Project 6 - Capstone - Combining Predictive Techniques  
-  
+This is the capstone project of the course and involves bringing all of the skills learned in the course together using Alteryx and Tableau.   
 
 7: Graduation Certificate.pdf  
   
