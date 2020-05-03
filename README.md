@@ -24,7 +24,7 @@ This project involves conducting an A/B Test on the introduction of an updated m
 This project involves conducting time-series analysis using monthly sales data to help with business planning. This was done using ETS and ARIMA models in Alteryx.  
 
 6: Project 6 - Capstone - Combining Predictive Techniques  
-This is the capstone project of the course and involves bringing all of the skills learned in the course together using Alteryx and Tableau.   
+This is the capstone project of the course and involves bringing all of the skills learned in the course together using Alteryx and Tableau. It involves using clustering and segmentation, classification and forecasting for the purpose of predicting sales across new stores in a business. First KMeans clustering was used to segment the stores into similar clusters. Next, classification was used to assign new cluster labels to the businesses new stores. Finally, ETS and ARIMA models were used to forecast future sales across the stores. As well as forecasting future sales, Tableau was used to visualise this data.  
 
 7: Graduation Certificate.pdf  
   
