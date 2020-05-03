@@ -8,15 +8,26 @@ It was a great course and I really enjoyed using Tableau and Alteryx for data an
 # Contents
 
 
-1: Project 1 - Predicting Catalogue Demand  - Project to predict expected return from a marketting campaign  
-- 1a - Project_Data	- Data used in the project  
-- 1b - Complete Submission	- Files submitted for the project  
-- 1c - Submission MGB.pdf - Final project submission  
-    
-2: Project 2 - Create an Analytical Dataset	 
+1: Project 1 - Predicting Catalogue Demand  
+This project was to use a linear regressor in Alteryx to predict the expected return of a marketing project. The end result was to use this prediction to make a business decision  
+
+2: Project 2 - Create an Analytical Dataset  
+This project showcases data manipulation by preparing data for analysis. It also involves dealing with outliers in data  
+
 3: Project 3 - Predicting Default Risk  
+This project involves formatting data and training a classification model to predict default risk and assess whether a customer is a good credit risk. Four models were trained using Alteryx including; logistic regression, decision tree, forest model and boosted model. These models were compared and the best chosen to assess the default risk for the company.  
+
 4: Project 4 - AB Test a New Menu Launch  
+  
+
 5: Project 5 - Forecasting Sales  
+  
+
 6: Project 6 - Capstone - Combining Predictive Techniques  
+  
+
 7: Graduation Certificate.pdf  
+  
+
 8: Misc	- Miscellaneous project files
+  
