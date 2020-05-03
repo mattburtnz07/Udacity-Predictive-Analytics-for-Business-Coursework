@@ -18,7 +18,7 @@ This project showcases data manipulation by preparing data for analysis. It also
 This project involves formatting data and training a classification model to predict default risk and assess whether a customer is a good credit risk. Four models were trained using Alteryx including; logistic regression, decision tree, forest model and boosted model. These models were compared and the best chosen to assess the default risk for the company.  
 
 4: Project 4 - AB Test a New Menu Launch  
-  
+This project involves conducting an A/B Test on the introduction of an updated menu and television advertising campaign for a coffee chain using Alteryx. The results of this analysis are used to determine whether the updated menu would be implemnented in all stores across the chain. Another key part of the project was creating trend and seasonality variables for the analysis.
 
 5: Project 5 - Forecasting Sales  
   
